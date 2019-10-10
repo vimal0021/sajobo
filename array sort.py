@@ -18,3 +18,4 @@ print("Largest element in your array is:",a[n-1])
 ##    a.append(b)
 ##a.sort()
 ##print("Largest element in your array is:",a[n-1])
+##code by Sajo
